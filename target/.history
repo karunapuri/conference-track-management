@@ -1,0 +1,12 @@
+reload
+clean
+compile
+update
+run 8080
+update
+compile
+run 8080
+test
+reload
+clean
+update
